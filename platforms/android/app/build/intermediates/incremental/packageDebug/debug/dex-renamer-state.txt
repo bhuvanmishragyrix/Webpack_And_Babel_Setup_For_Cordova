@@ -1,0 +1,4 @@
+#Wed Nov 14 15:18:02 IST 2018
+base.0=/home/bhuvan/Webpack_And_Babel_Configuration_For_Cordova/webpack_and_babel_configure/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/bhuvan/Webpack_And_Babel_Configuration_For_Cordova/webpack_and_babel_configure/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

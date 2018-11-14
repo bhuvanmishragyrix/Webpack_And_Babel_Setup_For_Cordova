@@ -1,6 +1,7 @@
 import App from './App.js';
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './test.css';
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
